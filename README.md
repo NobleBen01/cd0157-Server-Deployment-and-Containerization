@@ -86,3 +86,13 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+AKIAS25XHQDFI6ZPABXW
+jqOnYY95dSl5jewmjWsZpaxdXbOMytyxAZ+V9Ltw
+
+github token
+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
+
+NAME             TYPE           CLUSTER-IP       EXTERNAL-IP                                                              PORT(S)        AGE     SELECTOR
+simple-jwt-api   LoadBalancer   10.100.174.152   a6e5cd49aa7934c1a88475a719fa4f09-202985439.us-east-2.elb.amazonaws.com   80:32250/TCP   6h55m   app=simple-jwt-api
+
